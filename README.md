@@ -9,6 +9,7 @@ Developed two scripts using Python that will either create one basic graph or a 
 
 ## Example of Running Script
 - python3 csv_to_graph.py -icp C:\directory\test.csv -of graph.png
+- graph will be stored at the location of the python file
 
 ## Extra
 - included examples of both graphs
